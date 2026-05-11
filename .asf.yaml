@@ -34,7 +34,7 @@ github:
     wiki: false
     issues: true
     projects: false
-    discussions:true
+    discussions: true
 
 notifications:
   commits: commits@activemq.apache.org
